@@ -14,7 +14,6 @@ If you have questions, feel free to email:
 ytian285@gmail.com
 
 [1] Y. Tian, L. Sehovac and K. Grolinger, "Similarity-Based Chained Transfer Learning for Energy Forecasting With Big Data," in IEEE Access, vol. 7, pp. 139895-139908, 2019.
-doi: 10.1109/ACCESS.2019.2943752
-keywords: {Big Data;energy consumption;learning (artificial intelligence);load forecasting;power engineering computing;recurrent neural nets;smart meters;computationally intensive training;aggregated load;transfer learning;neural network-based models;trained models;energy consumption profiles;recurrent neural network;similarity measures;ML training;Big Data;smart meter popularity;big energy data;energy forecasting;similarity-based chained transfer learning;SBCTL;Forecasting;Smart meters;Training;Meters;Buildings;Computational modeling;Recurrent neural networks;Big data;deep learning;energy forecasting;gated recurrent units;recurrent neural network;smart meters;transfer learning},
+doi: 10.1109/ACCESS.2019.2943752,
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8848386&isnumber=8600701
 
