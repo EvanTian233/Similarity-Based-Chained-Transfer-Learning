@@ -2,7 +2,13 @@
 
 Code for publication: Similarity-Based Chained Transfer Learning for Energy Forecasting With Big Data
 
-Smart meter popularity has resulted in the ability to collect big energy data and has created opportunities for large-scale energy forecasting. Machine Learning (ML) techniques commonly used for forecasting, such as neural networks, involve computationally intensive training typically with data from a single building or a single aggregated load to predict future consumption for that same building or aggregated load. With hundreds of thousands of meters, it becomes impractical or even infeasible to individually train a model for each meter. Consequently, this paper proposes Similarity-Based Chained Transfer Learning (SBCTL), an approach for building neural network-based models for many meters by taking advantage of already trained models through transfer learning. The first model is trained in a traditional way whereas all other models transfer knowledge from the existing models in a chain-like manner according to similarities between energy consumption profiles. A Recurrent Neural Network (RNN) was used as the base forecasting model, two initialization techniques were considered, and different similarity measures were explored. The experiments show that SBCTL achieves accuracy comparable to traditional ML training while taking only a fraction of time.
+Smart meter popularity has resulted in the ability to collect big energy data and has created opportunities for large-scale energy forecasting. 
+Machine Learning (ML) techniques commonly used for forecasting, such as neural networks, involve computationally intensive training typically with data from a single building or a single aggregated load to predict future consumption for that same building or aggregated load. 
+With hundreds of thousands of meters, it becomes impractical or even infeasible to individually train a model for each meter. 
+Consequently, this paper proposes Similarity-Based Chained Transfer Learning (SBCTL), an approach for building neural network-based models for many meters by taking advantage of already trained models through transfer learning. 
+The first model is trained in a traditional way whereas all other models transfer knowledge from the existing models in a chain-like manner according to similarities between energy consumption profiles. 
+A Recurrent Neural Network (RNN) was used as the base forecasting model, two initialization techniques were considered, and different similarity measures were explored. 
+The experiments show that SBCTL achieves accuracy comparable to traditional ML training while taking only a fraction of time.
 
 If you have questions, feel free to email:
 ytian285@gmail.com
